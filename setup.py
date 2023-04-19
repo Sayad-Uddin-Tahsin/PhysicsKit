@@ -4,7 +4,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='Physics',
+    name='PhysicsKit',
     version='1.4.1',
     author='Sayad Uddin Tahsin',
     author_email='mr.pluto012@gmail.com',

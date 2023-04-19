@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='PhysicsKit',
-    version='1.4.1',
+    version='1.0.0',
     author='Sayad Uddin Tahsin',
     author_email='mr.pluto012@gmail.com',
     description='A Python Library for Performing Physics Calculations',

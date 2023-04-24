@@ -8,3 +8,7 @@ class GravitationalAcceleration:
     Uranus: float = 8.69
     Neptune: float = 11.15
     Pluto: float = 0.62
+
+
+G = 6.67430e-11
+c = 299792458.0
